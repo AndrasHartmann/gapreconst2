@@ -1,0 +1,9 @@
+challenge/2010/set-a/a11m 6 125 75000
+challenge/2010/set-a/a11m.mat 16+24 20.4733(307)/mmHg 12 2048 1457 -25429 0 ABP
+challenge/2010/set-a/a11m.mat 16+24 4093(2)/pm 12 2048 1365 12170 0 RESP
+challenge/2010/set-a/a11m.mat 16+24 1023(0)/? 12 2048 2092 18111 0 PLETH
+challenge/2010/set-a/a11m.mat 16+24 2048(1023)/mV 12 2048 1730 20809 0 ECG II
+challenge/2010/set-a/a11m.mat 16+24 2048(1023)/mV 12 2048 2395 5412 0 ECG V
+challenge/2010/set-a/a11m.mat 16+24 2048(1023)/mV 12 2048 2170 -4217 0 ECG AVR
+#Creator: wfdb2mat
+#Source: record challenge/2010/set-a/a11
